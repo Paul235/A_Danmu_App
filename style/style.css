@@ -12,6 +12,12 @@
     background-color: #D9FAD9;
 }
 
+.color-choice span{
+    padding: 5px;
+    font-weight: bold;
+}
+
+
 .btn {
     margin: 5px 20px;
     padding: 5px 15px;
